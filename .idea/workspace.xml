@@ -4,20 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="72e14749-d866-4453-8cd2-6991478a0fd5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/TDD/limpar/tdd-limpar.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TDD/potencia/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TDD/potencia/img_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TDD/potencia/img_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TDD/potencia/img_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TDD/potencia/img_4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TDD/potencia/img_5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TDD/potencia/tdd-potencia.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/CalculadoraBerimBal.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/CalculadoraBerimBal.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testes/limparCalculadora-test.py" beforeDir="false" afterPath="$PROJECT_DIR$/testes/limpar_calculadora-test.py" afterDir="false" />
-    </list>
+    <list default="true" id="72e14749-d866-4453-8cd2-6991478a0fd5" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -231,7 +218,7 @@
       <workItem from="1730638032838" duration="2847000" />
       <workItem from="1730658863144" duration="2127000" />
       <workItem from="1730665822490" duration="2077000" />
-      <workItem from="1730667915615" duration="1449000" />
+      <workItem from="1730667915615" duration="1857000" />
     </task>
     <servers />
   </component>
