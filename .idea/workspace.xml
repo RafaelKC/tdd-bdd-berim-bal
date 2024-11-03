@@ -5,24 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="72e14749-d866-4453-8cd2-6991478a0fd5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/BDD/bdd-porcentagem.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BDD/bdd-raiz.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TDD/porcentagem/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TDD/porcentagem/tdd-porcentagem.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TDD/raiz/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TDD/raiz/img_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TDD/raiz/img_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TDD/raiz/img_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TDD/raiz/img_4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TDD/raiz/img_5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TDD/raiz/tdd-raiz.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/funções/porcentagem.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/funções/raiz.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testes/porcentagem-test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testes/raiz-test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TDD/limpar/tdd-limpar.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TDD/potencia/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TDD/potencia/img_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TDD/potencia/img_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TDD/potencia/img_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TDD/potencia/img_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TDD/potencia/img_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TDD/potencia/tdd-potencia.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/CalculadoraBerimBal.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/CalculadoraBerimBal.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testes/limparCalculadora-test.py" beforeDir="false" afterPath="$PROJECT_DIR$/testes/limpar_calculadora-test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,16 +33,26 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "luis-ota"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;luis-ota&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/RafaelKC/tdd-bdd-berim-bal.git",
-    "accountId": "b65412aa-847b-407f-a68a-ddba4dbcc6bf"
+    "accountId": "02d02bcc-4316-42b5-8ed9-8ef382a5024c"
+  },
+  "recentNewPullRequestHead": {
+    "server": {
+      "useHttp": false,
+      "host": "github.com",
+      "port": null,
+      "suffix": null
+    },
+    "owner": "RafaelKC",
+    "repository": "tdd-bdd-berim-bal"
   }
 }]]></component>
   <component name="ProjectColorInfo">{
@@ -70,8 +74,8 @@
     "Python tests.Python tests for porcentagem-test.PorcentagemTest.test_porcentagem.executor": "Run",
     "Python tests.Python tests for raiz-test.MultiplicacaoTest.test_raiz.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/home/luis/dev/pucpr/tdd-bdd-berim-bal/TDD/raiz",
+    "git-widget-placeholder": "#1 on gu",
+    "last_opened_file_path": "/home/gustavolinux/PycharmProjects/tdd-bdd-berim-bal/TDD/potencia",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -82,11 +86,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/TDD/potencia" />
       <recent name="$PROJECT_DIR$/TDD/raiz" />
       <recent name="$PROJECT_DIR$/TDD/porcentagem" />
       <recent name="$PROJECT_DIR$/testes" />
       <recent name="$PROJECT_DIR$/funções" />
-      <recent name="$PROJECT_DIR$/BDD" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/TDD/raiz" />
@@ -166,7 +170,7 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for porcentagem-test.PorcentagemTest.test_porcentagem" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for porcentagem-test.PorcentagemTest.test_porcentagem" type="tests" factoryName="Autodetect" temporary="true">
       <module name="CalculadoraBerimBal" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -208,6 +212,14 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-PY-242.23726.102" />
+        <option value="bundled-python-sdk-5e1850174b45-399fe30bd8c1-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-242.23726.102" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -218,6 +230,8 @@
       <updated>1730638030160</updated>
       <workItem from="1730638032838" duration="2847000" />
       <workItem from="1730658863144" duration="2127000" />
+      <workItem from="1730665822490" duration="2077000" />
+      <workItem from="1730667915615" duration="1449000" />
     </task>
     <servers />
   </component>
@@ -247,7 +261,7 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/tdd_bdd_berim_bal$.coverage" NAME=" Coverage Results" MODIFIED="1730668137650" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testes" />
     <SUITE FILE_PATH="coverage/CalculadoraBerimBal$.coverage" NAME=" Coverage Results" MODIFIED="1730640893194" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testes" />
-    <SUITE FILE_PATH="coverage/tdd_bdd_berim_bal$.coverage" NAME=" Coverage Results" MODIFIED="1730660992136" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testes" />
   </component>
 </project>
