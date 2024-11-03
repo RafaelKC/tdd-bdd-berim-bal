@@ -5,31 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="72e14749-d866-4453-8cd2-6991478a0fd5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/CalculadoraBerimBal.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BDD/bdd-divisao.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BDD/bdd-multiplicação.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TDD/divisao/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TDD/divisao/img_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TDD/divisao/img_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TDD/divisao/img_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TDD/divisao/tdd-divisão.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TDD/multiplicacao/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TDD/multiplicacao/img_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TDD/multiplicacao/img_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TDD/multiplicacao/img_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TDD/multiplicacao/img_4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TDD/multiplicacao/img_5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TDD/multiplicacao/tdd-multiplicação.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/funções/divisao.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/funções/multiplicacao.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testes/divisão-test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testes/multiplicacao-test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BDD/bdd-porcentagem.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BDD/bdd-raiz.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TDD/porcentagem/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TDD/porcentagem/tdd-porcentagem.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TDD/raiz/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TDD/raiz/img_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TDD/raiz/img_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TDD/raiz/img_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TDD/raiz/img_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TDD/raiz/img_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TDD/raiz/tdd-raiz.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/funções/porcentagem.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/funções/raiz.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testes/porcentagem-test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testes/raiz-test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/CalculadoraBerimBal.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/CalculadoraBerimBal.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,9 +39,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "luis-ota"
+  }
 }]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/RafaelKC/tdd-bdd-berim-bal.git",
+    "accountId": "b65412aa-847b-407f-a68a-ddba4dbcc6bf"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2oL9Xgj5Yyi0QBPWMOgn75SVw7L" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -61,9 +66,12 @@
   "keyToString": {
     "Python tests.Python tests for divisão-test.DivisaoTest.executor": "Run",
     "Python tests.Python tests for multiplicacao-test.MultiplicacaoTest.executor": "Run",
+    "Python tests.Python tests for porcentagem-test.PorcentagemTest.executor": "Run",
+    "Python tests.Python tests for porcentagem-test.PorcentagemTest.test_porcentagem.executor": "Run",
+    "Python tests.Python tests for raiz-test.MultiplicacaoTest.test_raiz.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "/home/rafaelchicovis/git/CalculadoraBerimBal/testes",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/home/luis/dev/pucpr/tdd-bdd-berim-bal/TDD/raiz",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -74,18 +82,19 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/TDD/raiz" />
+      <recent name="$PROJECT_DIR$/TDD/porcentagem" />
       <recent name="$PROJECT_DIR$/testes" />
-      <recent name="$PROJECT_DIR$/TDD" />
       <recent name="$PROJECT_DIR$/funções" />
-      <recent name="$PROJECT_DIR$/BDD/multipicação" />
       <recent name="$PROJECT_DIR$/BDD" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/TDD/raiz" />
       <recent name="$PROJECT_DIR$/TDD/multiplicacao" />
       <recent name="$PROJECT_DIR$/BDD" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests for divisão-test.DivisaoTest">
+  <component name="RunManager" selected="Python tests.Python tests for porcentagem-test.PorcentagemTest.test_porcentagem">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="CalculadoraBerimBal" />
       <option name="ENV_FILES" value="" />
@@ -141,20 +150,63 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
+    <configuration name="Python tests for porcentagem-test.PorcentagemTest" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="CalculadoraBerimBal" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testes" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;porcentagem-test.PorcentagemTest&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for porcentagem-test.PorcentagemTest.test_porcentagem" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="CalculadoraBerimBal" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testes" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;porcentagem-test.PorcentagemTest.test_porcentagem&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for raiz-test.MultiplicacaoTest.test_raiz" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="CalculadoraBerimBal" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testes" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;raiz-test.MultiplicacaoTest.test_raiz&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Python tests for porcentagem-test.PorcentagemTest.test_porcentagem" />
+        <item itemvalue="Python tests.Python tests for porcentagem-test.PorcentagemTest" />
+        <item itemvalue="Python tests.Python tests for raiz-test.MultiplicacaoTest.test_raiz" />
         <item itemvalue="Python tests.Python tests for divisão-test.DivisaoTest" />
         <item itemvalue="Python tests.Python tests for multiplicacao-test.MultiplicacaoTest" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="SharedIndexes">
-    <attachedChunks>
-      <set>
-        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-PY-242.23726.102" />
-        <option value="bundled-python-sdk-5e1850174b45-399fe30bd8c1-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-242.23726.102" />
-      </set>
-    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -165,6 +217,7 @@
       <option name="presentableId" value="Default" />
       <updated>1730638030160</updated>
       <workItem from="1730638032838" duration="2847000" />
+      <workItem from="1730658863144" duration="2127000" />
     </task>
     <servers />
   </component>
@@ -195,5 +248,6 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/CalculadoraBerimBal$.coverage" NAME=" Coverage Results" MODIFIED="1730640893194" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testes" />
+    <SUITE FILE_PATH="coverage/tdd_bdd_berim_bal$.coverage" NAME=" Coverage Results" MODIFIED="1730660992136" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testes" />
   </component>
 </project>
