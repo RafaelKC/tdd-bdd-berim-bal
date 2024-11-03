@@ -20,12 +20,25 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory">{
-  &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;,
-    &quot;assignee&quot;: &quot;luis-ota&quot;
-  }
-}</component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "history": [
+    {
+      "state": "OPEN"
+    }
+  ],
+  "lastFilter": {}
+}]]></component>
+  <component name="GitHubPullRequestState"><![CDATA[{
+  "prStates": [
+    {
+      "id": {
+        "id": "PR_kwDONJymhc6Au-nC",
+        "number": 1
+      },
+      "lastSeen": 1730670039356
+    }
+  ]
+}]]></component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/RafaelKC/tdd-bdd-berim-bal.git",
@@ -218,7 +231,7 @@
       <workItem from="1730638032838" duration="2847000" />
       <workItem from="1730658863144" duration="2127000" />
       <workItem from="1730665822490" duration="2077000" />
-      <workItem from="1730667915615" duration="1857000" />
+      <workItem from="1730667915615" duration="2265000" />
     </task>
     <servers />
   </component>
